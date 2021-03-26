@@ -11,5 +11,5 @@ Simple tests for matchstick
 ## Install/update script
 
 ```bash
-curl -LO https://raw.githubusercontent.com/alwyn974/matchstick_tests.sh/master/matchstick_tests.sh && chmod +x matchstick_tests.sh
+curl -LO https://raw.githubusercontent.com/alwyn974/matchstick_tests/main/matchstick_tests.sh && chmod +x matchstick_tests.sh
 ```
