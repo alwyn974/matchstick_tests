@@ -13,3 +13,5 @@ Simple tests for matchstick
 ```bash
 curl -LO https://raw.githubusercontent.com/alwyn974/matchstick_tests/main/matchstick_tests.sh && chmod +x matchstick_tests.sh
 ```
+
+Based on `https://github.com/norech/42sh-tests`
